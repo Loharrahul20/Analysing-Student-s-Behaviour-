@@ -11,6 +11,9 @@ It is known, also, that online learning suffers massive unenrollment. The logica
 
 With this set in mind, I started a search for MOOCs generated Students Data to investigate and prepare some conclusions about the theme.
 
+Project Live Link:- 
+https://predicting-student-class.herokuapp.com/
+
 ![image](https://user-images.githubusercontent.com/38045608/109595538-baf6fb00-7b3a-11eb-9dbe-7c5a1a1b07a3.png)
 
 ![image](https://user-images.githubusercontent.com/38045608/109595561-ce09cb00-7b3a-11eb-8fe6-e2c8edea874c.png)
